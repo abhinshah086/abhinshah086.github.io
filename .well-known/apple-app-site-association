@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "F99WQ6MMVM.com.jc.StackUp",
+        "paths": [ "/group-invitation/*" ]
+      }
+    ]
+  }
+}
