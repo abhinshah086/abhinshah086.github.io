@@ -5,6 +5,10 @@
       {
         "appID": "F99WQ6MMVM.com.jc.StackUp",
         "paths": [ "/group-invitation/*" ]
+      },
+      {
+        "appID": "F99WQ6MMVM.com.matchkahisab.app",
+        "paths": [ "/invite/*" ]
       }
     ]
   }
