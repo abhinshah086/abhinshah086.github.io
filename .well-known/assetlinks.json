@@ -3,7 +3,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.jc.match_ka_hisab",
+    "package_name": "com.matchkahisab.app",
     "sha256_cert_fingerprints":
     ["34:13:5F:3F:7D:F2:FE:9B:68:E0:2F:AF:CA:BB:09:B9:B4:3D:BF:0D:0C:EB:C3:2A:4F:8E:98:F5:8E:4B:E3:B2"]
   }
